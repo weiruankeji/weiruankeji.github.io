@@ -9,6 +9,15 @@
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
     <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weiruankeji.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://weiruankeji.github.io/archives/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://weiruankeji.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://weiruankeji.github.io/contact/</link>
       <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
@@ -61,15 +70,6 @@
       <guid>https://weiruankeji.github.io/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://weiruankeji.github.io/archives/</link>
-      <pubDate>Tue, 05 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://weiruankeji.github.io/archives/</guid>
-      <description></description>
     </item>
     
   </channel>
